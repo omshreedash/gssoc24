@@ -1,0 +1,28 @@
+# 🏠 House Price Predictor
+
+An advanced machine learning project to predict Boston house prices using Linear Regression, Random Forest, and XGBoost.
+
+## 📊 Features
+- Advanced EDA with visualizations
+- Supports multiple models with evaluation
+- Modular source code for easy reuse
+- Custom prediction on user input
+- Future-ready: Streamlit UI, API endpoints, etc.
+
+
+## Project Structure:
+house-price-predictor/
+├── data/
+│   └── boston.csv
+├── models/
+│   └── trained_model.pkl
+├── notebooks/
+│   └── EDA_and_Modeling.ipynb
+├── src/
+│   ├── data_loader.py
+│   ├── visualizer.py
+│   ├── trainer.py
+│   ├── predictor.py
+├── app.py
+├── requirements.txt
+└── README.md
