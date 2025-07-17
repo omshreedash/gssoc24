@@ -5,4 +5,4 @@ I'm deeply fascinated by the intersection of machine learning and artificial int
 
 Areas of Interest: Machine Learning, Computer Vision, NLP, Automotive Systems
 Beginner in Open Source 
-Experienced Graphic Designer
+              
